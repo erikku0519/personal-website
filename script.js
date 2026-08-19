@@ -5,7 +5,7 @@ const I18N = {
     "nav.speaking": "Speaking",
     "nav.writing": "Writing",
     "nav.contact": "Contact",
-    "nav.cta": "Book Me to Speak",
+    "nav.cta": "Contact Me",
 
     "hero.eyebrow": "Product Leader · Speaker · Educator",
     "hero.title": "Driving product-led growth at the intersection of technology, commerce & culture.",
@@ -57,7 +57,7 @@ const I18N = {
     "nav.speaking": "강연",
     "nav.writing": "글",
     "nav.contact": "문의",
-    "nav.cta": "강연 문의하기",
+    "nav.cta": "문의하기",
 
     "hero.eyebrow": "프로덕트 리더 · 강연자 · 교육자",
     "hero.title": "기술·커머스·문화의 교차점에서 프로덕트 중심 성장을 이끕니다.",
