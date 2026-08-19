@@ -47,7 +47,7 @@ const I18N = {
     "contact.label": "LET'S CONNECT",
     "contact.title": "Interested in having me speak at your event or university?",
     "contact.sub": "I speak at MBA programs, product conferences, and corporate events in English, Japanese, and Korean.",
-    "contact.cta": "Get in Touch",
+    "contact.cta": "Connect on LinkedIn",
 
     "footer.copy": "© 2026 Eric Jung. All rights reserved.",
   },
@@ -99,7 +99,7 @@ const I18N = {
     "contact.label": "연락하기",
     "contact.title": "행사나 대학에서 강연을 원하시나요?",
     "contact.sub": "MBA 프로그램과 프로덕트 콘퍼런스, 기업 행사에서 영어·일본어·한국어로 강연합니다.",
-    "contact.cta": "문의하기",
+    "contact.cta": "링크드인에서 연결하기",
 
     "footer.copy": "© 2026 Eric Jung. 모든 권리 보유.",
   },
