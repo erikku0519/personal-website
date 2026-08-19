@@ -28,7 +28,9 @@ const I18N = {
 
     "about.label": "ABOUT",
     "about.name": "Eric Jung",
-    "about.bio": "I'm a Product Manager at Amazon Japan, where I lead product-driven growth initiatives at the intersection of music, commerce, and technology. Based in Tokyo, I bring a global perspective to everything I build — having worked across the US, Korea, and Japan. I'm passionate about helping teams move from vision to value through customer-obsessed product development. Outside of Amazon, I teach and speak at leading universities and conferences, sharing insights on international product management, the Japanese market, and how design thinking drives growth.",
+    "about.bio1": "A product leader fluent in Korean, English, and Japanese, I've driven innovation across e-commerce and digital entertainment through both global big tech and startups.",
+    "about.bio2": "After honing my craft over nearly a decade in California, I now serve as Head of Product at Amazon Music Japan, overseeing the full product lifecycle. I focus on shaping the mid-to-long-term vision for new businesses that fuse music streaming with fandom commerce — and translating that vision into business impact.",
+    "about.bio3": "Beyond my day-to-day work, I speak and teach at USC Marshall School of Business, Product School in Silicon Valley, Kobe University's graduate school of business, and Japan Product Camp in Tokyo — actively contributing to the global product community and the development of the next generation of tech leaders.",
     "about.s1": "Speaking Engagements",
     "about.s2": "Languages (EN/JP/KR)",
     "about.s3": "Universities Taught At",
@@ -80,7 +82,9 @@ const I18N = {
 
     "about.label": "소개",
     "about.name": "Eric Jung",
-    "about.bio": "저는 아마존 재팬의 프로덕트 매니저로, 음악과 커머스, 기술이 만나는 지점에서 프로덕트 주도 성장 이니셔티브를 이끌고 있습니다. 도쿄를 기반으로 미국과 한국, 일본을 오가며 일해 온 경험을 바탕으로 제가 만드는 모든 것에 글로벌한 관점을 담습니다. 고객에 집착하는 프로덕트 개발을 통해 팀이 비전을 가치로 전환하도록 돕는 일에 열정을 가지고 있습니다. 아마존 밖에서는 주요 대학과 콘퍼런스에서 강의하고 강연하며, 글로벌 프로덕트 관리와 일본 시장, 그리고 디자인 씽킹이 성장을 이끄는 방식에 대한 인사이트를 나눕니다.",
+    "about.bio1": "한국어, 영어, 일본어 3개 국어에 능통한 프로덕트 리더로, 글로벌 빅테크와 스타트업을 거치며 이커머스 및 디지털 엔터테인먼트 분야의 혁신을 이끌어왔습니다.",
+    "about.bio2": "미국 캘리포니아에서 약 10년간 실무 역량을 다진 후, 현재는 Amazon Music Japan의 프로덕트 총괄로서 제품 라이프사이클 전반을 관장하고 있습니다. 특히 음악 스트리밍과 팬덤 커머스를 융합한 신사업의 중장기 비전을 수립하고 이를 비즈니스 임팩트로 연결하는 데 주력하고 있습니다.",
+    "about.bio3": "현업을 넘어 USC Marshall 경영대학원, 실리콘밸리 Product School, 고베 경영대학원, 도쿄 Japan Product Camp 등에서 연사 및 강사로 활동하며 글로벌 제품 커뮤니티와 차세대 테크 리더 양성에도 적극적으로 기여하고 있습니다.",
     "about.s1": "강연 활동",
     "about.s2": "구사 언어 (EN/JP/KR)",
     "about.s3": "강의한 대학",
