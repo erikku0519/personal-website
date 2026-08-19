@@ -100,7 +100,13 @@
     <section id="about" class="about">
       <div class="container about-grid">
         <div class="about-media">
-          <img src="assets/img/about-talk.jpg" alt="Eric Jung — Product School webinar" loading="lazy" />
+          <div class="video-embed">
+            <iframe src="https://www.youtube.com/embed/3iUPO-SX6_M"
+                    title="Eric Jung — Product School webinar"
+                    loading="lazy"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen></iframe>
+          </div>
         </div>
         <div class="about-copy">
           <p class="section-eyebrow" data-i18n="about.label">ABOUT</p>
@@ -127,17 +133,17 @@
         <p class="section-eyebrow center" data-i18n="writing.label">WRITING</p>
         <h2 class="section-title center" data-i18n="writing.title">Latest Articles</h2>
         <div class="articles">
-          <a class="article" href="#">
+          <a class="article is-disabled" aria-disabled="true">
             <span class="tag">EN · Medium + LinkedIn</span>
             <h3 data-i18n="writing.a1t">Championing Product-Led Initiative in Japan</h3>
             <time data-i18n="writing.a1d">April 2025</time>
           </a>
-          <a class="article" href="#">
+          <a class="article is-disabled" aria-disabled="true">
             <span class="tag">KR · LinkedIn</span>
             <h3 lang="ko">"We"가 아닌 "I": 아마존이 '오너십'을 리더십 원칙 2번에 배치한 진짜 이유</h3>
             <time data-i18n="writing.a2d">July 2026</time>
           </a>
-          <a class="article" href="#">
+          <a class="article is-disabled" aria-disabled="true">
             <span class="tag">JP</span>
             <h3 lang="ja">プロダクトチームが主導する開発の推進</h3>
             <time data-i18n="writing.a3d">May 2025</time>
@@ -152,7 +158,7 @@
         <p class="section-eyebrow center accent-light" data-i18n="contact.label">LET'S CONNECT</p>
         <h2 class="contact-title" data-i18n="contact.title">Interested in having me speak at your event or university?</h2>
         <p class="contact-sub" data-i18n="contact.sub">I speak at MBA programs, product conferences, and corporate events in English, Japanese, and Korean.</p>
-        <a href="mailto:hello@ericjung.example" class="btn btn-amber" data-i18n="contact.cta">Get in Touch</a>
+        <a href="mailto:eric.jung.0519@gmail.com" class="btn btn-amber" data-i18n="contact.cta">Get in Touch</a>
       </div>
     </section>
   </main>
@@ -162,9 +168,9 @@
     <div class="container footer-inner">
       <p class="copyright" data-i18n="footer.copy">© 2026 Eric Jung. All rights reserved.</p>
       <nav class="social" aria-label="Social">
-        <a href="#">LinkedIn</a>
-        <a href="#">Medium</a>
-        <a href="#">YouTube</a>
+        <a href="https://www.linkedin.com/in/erichjung/" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="https://medium.com/@erichjung" target="_blank" rel="noopener">Medium</a>
+        <a class="is-disabled" aria-disabled="true">YouTube</a>
       </nav>
     </div>
   </footer>
