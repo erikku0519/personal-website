@@ -9,7 +9,7 @@ const I18N = {
 
     "hero.eyebrow": "Product Leader · Speaker · Educator",
     "hero.title": "Driving product-led growth at the intersection of technology, commerce & culture.",
-    "hero.sub": "From Tokyo to the world — I help teams build products that matter, and share what I learn along the way.",
+    "hero.sub": "From Japan to the world — I help teams build products that matter, and share what I learn along the way.",
     "hero.ctaPrimary": "Invite Me to Speak",
     "hero.ctaSecondary": "Read My Writing",
 
@@ -60,8 +60,8 @@ const I18N = {
     "nav.cta": "강연 문의하기",
 
     "hero.eyebrow": "프로덕트 리더 · 강연자 · 교육자",
-    "hero.title": "기술과 커머스, 문화가 만나는 지점에서 프로덕트 주도 성장을 이끕니다.",
-    "hero.sub": "도쿄에서 세계로 — 의미 있는 프로덕트를 만드는 팀을 돕고, 그 과정에서 배운 것을 함께 나눕니다.",
+    "hero.title": "기술·커머스·문화의 교차점에서 프로덕트 중심 성장을 이끕니다.",
+    "hero.sub": "일본에서 전 세계로 — 의미 있는 프로덕트를 만드는 팀을 돕고, 그 과정에서 배운 것을 나눕니다.",
     "hero.ctaPrimary": "강연 요청하기",
     "hero.ctaSecondary": "글 읽어보기",
 
