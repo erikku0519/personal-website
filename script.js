@@ -26,7 +26,7 @@ const I18N = {
     "speaking.c4t": "AI × ESG: Responsible Tech in Big Tech",
     "speaking.c4b": "Navigating AI governance, sustainability, and responsible innovation at scale.",
 
-    "about.label": "ABOUT",
+    "about.label": "ABOUT ME",
     "about.name": "Eric Jung",
     "about.bio1": "A product leader fluent in Korean, English, and Japanese, I've driven innovation across e-commerce and digital entertainment through both global big tech and startups.",
     "about.bio2": "After honing my craft over nearly a decade in California, I now serve as Head of Product at Amazon Music Japan, overseeing the full product lifecycle. I focus on shaping the mid-to-long-term vision for new businesses that fuse music streaming with fandom commerce — and translating that vision into business impact.",
@@ -80,7 +80,7 @@ const I18N = {
     "speaking.c4t": "AI × ESG: 빅테크의 책임 있는 기술",
     "speaking.c4b": "대규모 환경에서 AI 거버넌스와 지속가능성, 책임 있는 혁신을 탐색합니다.",
 
-    "about.label": "소개",
+    "about.label": "자기소개",
     "about.name": "Eric Jung",
     "about.bio1": "한국어, 영어, 일본어 3개 국어에 능통한 프로덕트 리더로, 글로벌 빅테크와 스타트업을 거치며 이커머스 및 디지털 엔터테인먼트 분야의 혁신을 이끌어왔습니다.",
     "about.bio2": "미국 캘리포니아에서 약 10년간 실무 역량을 다진 후, 현재는 Amazon Music Japan의 프로덕트 총괄로서 제품 라이프사이클 전반을 관장하고 있습니다. 특히 음악 스트리밍과 팬덤 커머스를 융합한 신사업의 중장기 비전을 수립하고 이를 비즈니스 임팩트로 연결하는 데 주력하고 있습니다.",
